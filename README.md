@@ -16,10 +16,6 @@ I believe true mastery isn't found in documentation alone, but in the terminal.
 * **Learning in Public:** I believe that the best way to grow is to share my progress and contribute to the community.
 * **Full-Stack Ownership:** From infrastructure and database tuning to designing clean interfaces, I enjoy owning the entire lifecycle of a project.
 
----
-
-> "Turning curiosity into code, one pull request at a time."
-
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranav_manglik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manglikpranav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranav@undreamt.in) 
 
