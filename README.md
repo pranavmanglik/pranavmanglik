@@ -2,8 +2,6 @@
 
 I am a **Developer** and **Open Source Enthusiast** driven by a "Build-to-Learn" philosophy. I specialize in breaking down complex architectures to understand how high-performance systems actually work under the hood. 
 
-I bridge the gap between curiosity and creation by contributing back to the global tools I use every day.
-
 ### Current Focus & Contributions
 * **Open Source Contributor:** Actively contributing to major frameworks and ecosystem-level projects.
 * **Systems Programming:** Exploring the boundaries of memory safety and performance-critical applications.
