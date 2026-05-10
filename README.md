@@ -1,18 +1,12 @@
 # About Me
 
-I’m a developer who prefers understanding systems by taking them apart and rebuilding them. I don’t like treating tools as black boxes—if I use something, I want to know how it works underneath.
+### Hi, I’m Pranav.
 
-I spend a lot of time in open source and systems-level work, especially where performance and memory start to matter. I’m interested in the trade-offs behind design decisions—why something is built a certain way, and what it costs.
+I’m a **builder** at heart, focused more on architectural logic and deep-dive engineering than superficial markers. I’m a big believer in functional contributions—the kind that improve the "under-the-hood" mechanics of major software ecosystems.
 
-Right now, I’m building a full-stack platform with a focus on scalability and real-world use. I try to think beyond “it works” and move toward “it holds up.”
+I spend most of my time bridging the gap between daydreamed concepts and actual execution. Whether I'm contributing to open-source frameworks or leading a community focused on untapped creative potential, I'm usually found digging into the internal logic of a system to see how it can be built better.
 
-On the frontend, I care about clarity and responsiveness. On the backend, I care about structure, efficiency, and correctness.
-
-How I work
-* I read source code when I want real answers
-* I rewrite things when I realize the first version wasn’t good enough
-* I share what I’m learning, even while I’m still figuring it out
-* I like owning systems end-to-end, not just pieces of them
+If it’s not solving a core problem or exploring a complex architecture, I’m probably not building it.
 
 # Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pranav_manglik)
