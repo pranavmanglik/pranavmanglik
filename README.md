@@ -13,7 +13,7 @@ I enjoy turning ambitious ideas into working systems—especially frameworks and
 ## What I’m working on
 
 - [Orbit](https://github.com/orbit-projects) — an open-source ecosystem working toward an enterprise-grade, cloud-native web framework.
-- [Gabby](https://github.com/undreamt-oss/gabby) — a domain-neutral, async-first Python framework for composing and running specialized, stateless AI agents. It brings models, tools, skills, knowledge sources, policies, and verification together through replaceable interfaces.
+- [Gabby](https://github.com/undreamt-oss/gabby) — a stateless, security-first Python agent execution runtime that executes model-driven tasks inside sandboxed containers with hard policy guardrails and cryptographically signed skill packages.
 - [Undreamt](https://github.com/undreamt-oss) — a community exploring technology and ideas across domains.
 
 ## What I care about
