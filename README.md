@@ -2,26 +2,26 @@
 
 # Pranav Manglik
 
-**Open-source builder · Software architecture · Developer tooling**
+**Open-Source Maintainer · Software Architecture · Developer Tooling**
 
-I enjoy turning ambitious ideas into working systems—especially frameworks and tools that help other developers build well.
+Focused on designing and building modular frameworks, runtime environments, and developer infrastructure.
 
 </div>
 
 ---
 
-## What I’m working on
+## Projects
 
-- [Orbit](https://github.com/orbit-projects) — an open-source ecosystem working toward an enterprise-grade, cloud-native web framework.
-- [Gabby](https://github.com/undreamt-oss/gabby) — a stateless, security-first Python agent execution runtime that executes model-driven tasks inside sandboxed containers with hard policy guardrails and cryptographically signed skill packages.
-- [Undreamt](https://github.com/undreamt-oss) — a community exploring technology and ideas across domains.
+- **[Orbit](https://github.com/orbit-projects)** — An open-source ecosystem developing an enterprise-grade, cloud-native web framework.
+- **[Gabby](https://github.com/undreamt-oss/gabby)** — A stateless, security-first Python agent execution runtime that runs model-driven tasks inside sandboxed containers with strict policy guardrails and cryptographically signed skill packages.
+- **[Undreamt](https://github.com/undreamt-oss)** — An open-source organization focused on collaborative software engineering and applied research.
 
-## What I care about
+## Technical Focus
 
-I’m interested in how software works under the surface: system architecture, framework internals, developer experience, and the decisions that make projects easier to extend and maintain.
+- **Architecture & Internals:** System design, framework architecture, and maintainability patterns that allow codebases to scale cleanly.
+- **Developer Experience:** Predictable APIs, thorough documentation, and practical tooling that reduce friction in development workflows.
+- **Open-Source Governance:** Structured contribution workflows, reproducible builds, and sustainable community maintenance.
 
-I value useful contributions, clear documentation, thoughtful design, and open-source communities where people can learn and build together.
+## Engineering Approach
 
-## My approach
-
-I like understanding a problem before choosing the tools. I’m especially interested in modular systems that give developers a clear path from a small start to larger, cloud-native deployments.
+Development decisions are driven by problem requirements rather than specific tools. The primary architectural goal is building modular systems with clear boundaries—enabling projects to start with minimal overhead and scale into distributed, cloud-native deployments without structural rewrites.
